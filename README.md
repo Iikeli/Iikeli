@@ -1,8 +1,6 @@
 ### Hi there 👋
 I love to learn and teach. I write articles on [my website](https://www.iiroalhonen.com/blog) and [on Medium](https://medium.com/@iiroalhonen).
 
-Currently my focus is to get a deeper understanding of Swift, UIKit and SwiftUI. In the future I want to do more writing, hopefully some public speaking and learn to leverage machine learning in mobile applications.
-
 I worked in the QA side of things for a few years and now I'm excited to get back into development full time.
 
 #### Other info
