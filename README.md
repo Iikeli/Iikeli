@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm Iiro, an aspiring iOS developer currently working on my own projects, but looking for a company to join and grow in.
 I love to learn and teach. I write articles on [my website](https://www.iiroalhonen.com/blog) and [on Medium](https://medium.com/@iiroalhonen).
 
 Currently my focus is to get a deeper understanding of Swift, UIKit and SwiftUI. In the future I want to do more writing, hopefully some public speaking and learn to leverage machine learning in mobile applications.
