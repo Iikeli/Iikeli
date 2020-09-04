@@ -1,7 +1,7 @@
 ### Hi there 👋
 I love to learn and teach. I write articles on [my website](https://www.iiroalhonen.com/blog) and [on Medium](https://medium.com/@iiroalhonen).
 
-I worked in the QA side of things for a few years and now I'm excited to get back into development full time.
+I'm working full time as a software developer. I enjoy writing JavaScript, Python and Swift.
 
 #### Other info
 In my free time I like to go bouldering, play video games, and read books and comics.
