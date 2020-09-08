@@ -5,7 +5,7 @@ I'm working full time as a software developer. I enjoy writing JavaScript, Pytho
 
 #### Other info
 In my free time I like to go bouldering, play video games, and read books and comics.
-I'm also running my first D&D campaing (I'm also the DM 😱).
+I'm also running my first D&D campaing (in which, I'm the DM 😱).
 
 ### Published apps:
 <!-- ![Bean juice icon](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/7e/8f/65/7e8f652e-7f49-cd26-bf0a-b92bf5807789/AppIcon-1x_U007emarketing-0-2-85-220.png/246x0w.png "Bean Juice") -->
