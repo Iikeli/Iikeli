@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Picture of me](https://res.cloudinary.com/iiroalhonen/image/upload/c_scale,w_500/v1600061757/IMG_23_sml_up4wug.jpg)
+
 I love to learn and teach. I write articles on [my website](https://www.iiroalhonen.com/blog) and [on Medium](https://medium.com/@iiroalhonen).
 
 I'm working full time as a software developer. I enjoy writing JavaScript, Python and Swift.
