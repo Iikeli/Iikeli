@@ -11,7 +11,8 @@ I'm also running my first D&D campaing (in which, I'm the DM 😱).
 
 ### Published apps:
 <!-- ![Bean juice icon](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/7e/8f/65/7e8f652e-7f49-cd26-bf0a-b92bf5807789/AppIcon-1x_U007emarketing-0-2-85-220.png/246x0w.png "Bean Juice") -->
-Bean Juice, available in the [App Store](https://apps.apple.com/us/app/bean-juice/id1502380351). ![Bean Juice Twitter follow](https://img.shields.io/twitter/follow/BeanJuiceApp?style=social)
+Bean Juice, available in the [App Store](https://apps.apple.com/us/app/bean-juice/id1502380351). 
+![Bean Juice Twitter follow](https://img.shields.io/twitter/follow/BeanJuiceApp?style=social)
 <!--
 **Iikeli/Iikeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
