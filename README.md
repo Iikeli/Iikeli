@@ -6,7 +6,7 @@ I love to learn and teaching others is a great way to learn. That is why I write
 I'm working full time as a software developer and publish my own apps through my company, Nifty Tree Studios. I enjoy writing JavaScript, Python and Swift.
 
 Currently working on:
-- Bean Juice
+- [Bean Juice](https://www.niftytreestudios.com/work/bean-juice)
 - A couple of unannounced projects
 
 #### Other info
