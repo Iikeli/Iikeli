@@ -3,7 +3,7 @@
 
 I love to learn and teaching others is a great way to learn. That is why I write articles on [my website](https://www.iiroalhonen.com/blog) and [on Medium](https://medium.com/@iiroalhonen).
 
-I'm working full time as a software developer and publish my own apps through my company, Nifty Tree Studios. I enjoy writing JavaScript, Python and Swift.
+I'm working full time as an iOS developer with KPS Software in Bremen and publish my own apps through my company, Nifty Tree Studios. I enjoy working in the iOS and macOS ecosystems writing Swift code.
 
 Currently working on:
 - [Bean Juice](https://www.niftytreestudios.com/work/bean-juice)
@@ -11,7 +11,7 @@ Currently working on:
 
 #### Other info
 In my free time I like to go bouldering, play video games, and read books and comics.
-I'm also running my first D&D campaing (in which, I'm the DM 😱).
+I'm also a beginner dungeon master, throwing my players into Avernus.
 
 ![Twitter follow](https://img.shields.io/twitter/follow/iiroalhonen?style=social)
 
