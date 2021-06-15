@@ -8,6 +8,7 @@ I'm working full time as an iOS developer with KPS Software in Bremen and publis
 Currently working on:
 - [Bean Juice](https://www.niftytreestudios.com/work/bean-juice)
 - [Carefaktor](https://carefaktor.de)
+- Nifty Dice Roller (package and app)
 - A couple of unannounced projects
 
 #### Other info
@@ -21,3 +22,5 @@ I'm also a beginner dungeon master, throwing my players into Avernus.
 - Bean Juice, available in the [App Store](https://apps.apple.com/us/app/bean-juice/id1502380351). (Nifty Tree Studios)
 
 ![Bean Juice Twitter follow](https://img.shields.io/twitter/follow/BeanJuiceApp?style=social)
+
+- Nifty Dice Roller
