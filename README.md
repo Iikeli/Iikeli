@@ -8,7 +8,8 @@ I'm working full time as an iOS developer with KPS Software in Bremen and publis
 Currently working on:
 - [Bean Juice](https://www.niftytreestudios.com/work/bean-juice)
 - [Carefaktor](https://carefaktor.de)
-- Nifty Dice Roller (package and app)
+- Nifty Dice Roller ([package](https://github.com/NiftyTreeStudios/Nifty-Dice-Roller) and [app](https://github.com/NiftyTreeStudios/Nifty-Dice-Roller-App))
+- [Nifty Markdown Formatter](https://github.com/NiftyTreeStudios/Nifty-Markdown-Formatter)
 - A couple of unannounced projects
 
 #### Other info
