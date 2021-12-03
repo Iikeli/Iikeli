@@ -5,6 +5,9 @@ I love to learn and teaching others is a great way to learn. That is why I write
 
 I'm working full time as an iOS developer with KPS Software in Bremen and publish my own apps through my company, Nifty Tree Studios. I enjoy working in the iOS and macOS ecosystems writing Swift code.
 
+In my free time I like to go bouldering, play video games, and read books and comics.
+I'm also a beginner dungeon master, throwing my players into Avernus.
+
 Currently working on:
 - [Bean Juice](https://www.niftytreestudios.com/work/bean-juice)
 - [Carefaktor](https://carefaktor.de)
@@ -12,9 +15,9 @@ Currently working on:
 - [Nifty Markdown Formatter](https://github.com/NiftyTreeStudios/Nifty-Markdown-Formatter)
 - A couple of unannounced projects
 
-#### Other info
-In my free time I like to go bouldering, play video games, and read books and comics.
-I'm also a beginner dungeon master, throwing my players into Avernus.
+Past projects & companies:
+- Stealth Black (Full Stack Engineer - react and python)
+- Basemark (QA Engineer)
 
 ![Twitter follow](https://img.shields.io/twitter/follow/iiroalhonen?style=social)
 
