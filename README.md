@@ -9,7 +9,7 @@ In my free time I like to go bouldering, play video games, and read books and co
 I'm also a beginner dungeon master, throwing my players into Avernus.
 
 Currently working on:
-- [Bean Juice](https://www.niftytreestudios.com/work/bean-juice)
+- [Bean Juice](https://www.niftytreestudios.com/work/bean-juice), available in the [App Store](https://apps.apple.com/us/app/bean-juice/id1502380351). (Nifty Tree Studios) ![Bean Juice Twitter follow](https://img.shields.io/twitter/follow/BeanJuiceApp?style=social)
 - [Carefaktor](https://carefaktor.de)
 - Nifty Dice Roller ([package](https://github.com/NiftyTreeStudios/Nifty-Dice-Roller) and [app](https://github.com/NiftyTreeStudios/Nifty-Dice-Roller-App))
 - [Nifty Markdown Formatter](https://github.com/NiftyTreeStudios/Nifty-Markdown-Formatter)
@@ -20,9 +20,3 @@ Past projects & companies:
 - Basemark (QA Engineer)
 
 ![Twitter follow](https://img.shields.io/twitter/follow/iiroalhonen?style=social)
-
-### Published apps:
-<!-- ![Bean juice icon](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/7e/8f/65/7e8f652e-7f49-cd26-bf0a-b92bf5807789/AppIcon-1x_U007emarketing-0-2-85-220.png/246x0w.png "Bean Juice") -->
-- Bean Juice, available in the [App Store](https://apps.apple.com/us/app/bean-juice/id1502380351). (Nifty Tree Studios) ![Bean Juice Twitter follow](https://img.shields.io/twitter/follow/BeanJuiceApp?style=social)
-
-- Nifty Dice Roller
