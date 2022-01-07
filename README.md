@@ -10,7 +10,7 @@ I'm also a beginner dungeon master, throwing my players into Avernus.
 
 Currently working on:
 - [Bean Juice](https://www.niftytreestudios.com/work/bean-juice), available in the [App Store](https://apps.apple.com/us/app/bean-juice/id1502380351).
-- [Carefaktor](https://carefaktor.de)
+- [Bärcare](https://baer.care)
 - [Hey! Hydrate!](https://www.niftytreestudios.com/work/hey-hydrate), available in the [App Store](https://apps.apple.com/us/app/hey-hydrate/id1600285038).
 - Nifty Dice Roller ([package](https://github.com/NiftyTreeStudios/Nifty-Dice-Roller) and [app](https://github.com/NiftyTreeStudios/Nifty-Dice-Roller-App))
 - [Nifty Markdown Formatter](https://github.com/NiftyTreeStudios/Nifty-Markdown-Formatter)
