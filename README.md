@@ -16,7 +16,7 @@ Currently working on:
 - [Nifty Markdown Formatter](https://github.com/NiftyTreeStudios/Nifty-Markdown-Formatter)
 
 Past projects & companies:
-- [Bärcare](https://baer.care)
+- [Bärcare](https://baer.care) (iOS Developer)
 - Stealth Black (Full Stack Engineer - react and python)
 - Basemark (QA Engineer)
 
