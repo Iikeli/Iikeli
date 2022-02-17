@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Picture of me](https://res.cloudinary.com/iiroalhonen/image/upload/c_scale,w_500/v1600061757/IMG_23_sml_up4wug.jpg)
 
-I love to learn and teaching others is a great way to learn. That is why I write articles on [my website](https://www.iiroalhonen.com/blog) and [on Medium](https://medium.com/@iiroalhonen).
+I love to learn and teaching others is a great way to learn. That is why I write articles [on Medium](https://medium.com/@iiroalhonen).
 
 I'm working full time as an iOS developer at Sanoma Media Finland in Helsinki and publish my own apps through my company, Nifty Tree Studios. I enjoy working in the iOS and macOS ecosystems writing Swift code.
 
