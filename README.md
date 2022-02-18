@@ -12,7 +12,8 @@ Currently working on:
 - iOS apps at Sanoma Media Finland
 - [Bean Juice](https://www.niftytreestudios.com/work/bean-juice), available in the [App Store](https://apps.apple.com/us/app/bean-juice/id1502380351).
 - [Hey! Hydrate!](https://www.niftytreestudios.com/work/hey-hydrate), available in the [App Store](https://apps.apple.com/us/app/hey-hydrate/id1600285038).
-- Nifty Dice Roller ([package](https://github.com/NiftyTreeStudios/Nifty-Dice-Roller) and [app](https://github.com/NiftyTreeStudios/Nifty-Dice-Roller-App))
+- Nifty Dice Roller ([package](https://github.com/NiftyTreeStudios/Nifty-Dice-Roller) and [app](https://github.com/NiftyTreeStudios/Nifty-Dice-Roller-App)).
+- [Nifty Initiative Tracker](https://github.com/NiftyTreeStudios/nifty-initiative-tracker), available in the [App Store](https://apps.apple.com/us/app/nifty-initiative-tracker/id1609949343).
 - [Nifty Markdown Formatter](https://github.com/NiftyTreeStudios/Nifty-Markdown-Formatter)
 
 Past projects & companies:
