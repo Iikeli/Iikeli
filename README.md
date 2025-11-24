@@ -3,13 +3,12 @@
 
 I love to learn and teaching others is a great way to learn. That is why I write articles [on Medium](https://medium.com/@iiroalhonen).
 
-I'm working full time as an iOS developer at Sanoma Media Finland in Helsinki and publish my own apps through my company, Nifty Tree Studios. I enjoy working in the iOS and macOS ecosystems writing Swift code.
+I'm working full time as an iOS Engineer at Oura in Helsinki and publish my own apps through my company, Nifty Tree Studios. I enjoy working in the iOS and macOS ecosystems writing Swift code.
 
-In my free time I like to go bouldering, play video games, and read books and comics.
-I'm also a beginner dungeon master, throwing my players into Avernus.
+In my free time I like to play video and tabletop games, including D&D, and read books and comics.
 
 Currently working on:
-- iOS apps at Sanoma Media Finland
+- iOS Engineer at Oura
 - [Bean Juice](https://www.niftytreestudios.com/work/bean-juice), available in the [App Store](https://apps.apple.com/us/app/bean-juice/id1502380351).
 - [Hey! Hydrate!](https://www.niftytreestudios.com/work/hey-hydrate), available in the [App Store](https://apps.apple.com/us/app/hey-hydrate/id1600285038).
 - Nifty Dice Roller ([package](https://github.com/NiftyTreeStudios/Nifty-Dice-Roller) and [app](https://github.com/NiftyTreeStudios/Nifty-Dice-Roller-App)).
@@ -17,9 +16,7 @@ Currently working on:
 - [Nifty Markdown Formatter](https://github.com/NiftyTreeStudios/Nifty-Markdown-Formatter)
 
 Past projects & companies:
+- iOS news apps at Sanoma Media Finland
 - [Bärcare](https://baer.care) (iOS Developer)
 - Stealth Black (Full Stack Engineer - react and python)
 - Basemark (QA Engineer)
-
-![personal Twitter follow](https://img.shields.io/twitter/follow/iiroalhonen?style=social)
-![Nifty Tree Studios Twitter follow](https://img.shields.io/twitter/follow/NiftyTreeStudio?style=social)
