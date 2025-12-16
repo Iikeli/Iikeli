@@ -14,7 +14,7 @@ Currently working on:
 - [Nifty Markdown Formatter](https://github.com/NiftyTreeStudios/Nifty-Markdown-Formatter)
 
 Past projects & companies:
-- iOS news apps at Sanoma Media Finland
+- News apps at Sanoma Media Finland (iOS Developer)
 - [Bärcare](https://baer.care) (iOS Developer)
 - Stealth Black (Full Stack Engineer - react and python)
 - Basemark (QA Engineer)
