@@ -1,11 +1,9 @@
 ### Hi there 👋
 ![Picture of me](https://res.cloudinary.com/iiroalhonen/image/upload/c_scale,w_500/v1600061757/IMG_23_sml_up4wug.jpg)
 
-I love to learn and teaching others is a great way to learn. That is why I write articles [on Medium](https://medium.com/@iiroalhonen).
-
 I'm working full time as an iOS Engineer at Oura in Helsinki and publish my own apps through my company, Nifty Tree Studios. I enjoy working in the iOS and macOS ecosystems writing Swift code.
 
-In my free time I like to play video and tabletop games, including D&D, and read books and comics.
+In my free time I like to play video and tabletop games, including D&D, and read books and comics. For some reason I also like doing endurance sports.
 
 Currently working on:
 - iOS Engineer at Oura
